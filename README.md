@@ -1,4 +1,4 @@
-# Prospector Scanner - ZMK Status Display Device
+# Prospector Scanner - ZMK Status Display Device!
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-beta-orange" alt="Beta Status">
